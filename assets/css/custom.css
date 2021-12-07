@@ -1,0 +1,14 @@
+h1, h2 {
+    text-align: center;
+}
+
+#content {
+    margin-top: 40px;
+}
+.remove-item,
+.remove-item:hover {
+    float: right;
+    cursor: pointer;
+    color: red;
+    font-weight: bold;
+}
